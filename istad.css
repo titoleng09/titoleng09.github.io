@@ -213,7 +213,7 @@ input {
   border: 2px solid palevioletred;
   padding: 20px;
 }
-img[src="/WEB28/Webpage/img/spiderman.webp"] {
+img[src="/img/spiderman.webp"] {
   width: 50px;
   background-color: red;
   border-radius: 100%;
